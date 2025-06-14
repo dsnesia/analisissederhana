@@ -4,7 +4,7 @@ import requests
 from telegram import Update
 from telegram.ext import ApplicationBuilder, CommandHandler, ContextTypes
 
-TOKEN = os.getenv("TOKEN")
+TOKEN = os.getenv("yang7849701689:AAGEpNM3BA-o9rrv_KsXCJv-SaKFb_bTtTg")
 BINANCE_URL = "https://api.binance.com/api/v3"
 
 logging.basicConfig(level=logging.INFO)
