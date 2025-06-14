@@ -1,0 +1,6 @@
+{
+  "build": {
+    "commands": []
+  },
+  "start": "python bot.py"
+}
